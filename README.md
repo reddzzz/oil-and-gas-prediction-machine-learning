@@ -1,2 +1,2 @@
-# oil-and-gas-prediction-machine-learning
+# Oil and Gas Prediction Machine Learning
 datasets, codes, important stuffs

@@ -15,4 +15,4 @@ The testing folder contains the test dataset which will be used to test the perf
 different wellbores, the data from one of these wellbores was used as the test dataset.
 
 ## Code
-This folder contains the code for the Exploratory Data Analysis of the dataset. It also contains the code for the Gradient Boosting and Random Forest models. It also contains the code for the hyperparameter optimization method using HyperOpt.
+This folder contains the code for the Exploratory Data Analysis of the dataset. It also contains the code for the Gradient Boosting and Random Forest models. Additionally, the code for the hyperparameter optimization method using HyperOpt is also provided. 
